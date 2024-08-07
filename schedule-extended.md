@@ -69,7 +69,7 @@
 - Hamid Bekamiri: HB
 - Christian Nielsen: CN
 - Primoz Konda: PK
-- EOA (Unspecified Instructor)
+- Eskil Olav Andersen: EOA
 
 **Modules:**
 - Data-Driven Business Modelling and Strategy: DBM-M3
